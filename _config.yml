@@ -17,10 +17,10 @@ avatar: images/zachary-hancock.jpeg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: zhancock@augusta.edu
+  email: "zhancock@augusta.edu"
   github:
-  bluesky: @hancockzb.bsky.social
-  youtube: https://www.youtube.com/@talkpopgen
+  bluesky: "@hancockzb.bsky.social"
+  youtube: "https://www.youtube.com/@talkpopgen"
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
